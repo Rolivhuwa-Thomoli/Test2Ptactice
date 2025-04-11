@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asterisks/Asterisks.iml" filepath="$PROJECT_DIR$/Asterisks/Asterisks.iml" />
       <module fileurl="file://$PROJECT_DIR$/BreakContinue/BreakContinue.iml" filepath="$PROJECT_DIR$/BreakContinue/BreakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhile/DoWhile.iml" filepath="$PROJECT_DIR$/DoWhile/DoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathLib2ndApproach/MathLib2ndApproach.iml" filepath="$PROJECT_DIR$/MathLib2ndApproach/MathLib2ndApproach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinOfNValues/MinOfNValues.iml" filepath="$PROJECT_DIR$/MinOfNValues/MinOfNValues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice1/Practice1.iml" filepath="$PROJECT_DIR$/Practice1/Practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductOdd/ProductOdd.iml" filepath="$PROJECT_DIR$/ProductOdd/ProductOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QualityPoints/QualityPoints.iml" filepath="$PROJECT_DIR$/QualityPoints/QualityPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallestInteger/SmallestInteger.iml" filepath="$PROJECT_DIR$/SmallestInteger/SmallestInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test2Ptactice.iml" filepath="$PROJECT_DIR$/Test2Ptactice.iml" />
     </modules>
   </component>
